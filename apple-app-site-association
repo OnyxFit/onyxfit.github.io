@@ -1,5 +1,6 @@
 {
    "webcredentials": {
-      "apps": ["fit.onyx.onyx"]
+      "apps": ["fit.onyx.onyx",
+               "fit.onyx.onyx.dev"]
     }
 }
