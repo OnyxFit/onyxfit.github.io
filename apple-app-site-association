@@ -3,7 +3,7 @@
       "apps": [],
       "details": [
         {
-          "appID": "S67LPN3KMU.fit.onyx.onyx.dev"
+          "appID": "S67LPN3KMU.fit.onyx.onyx.dev",
           "paths": ["*"]
         }
       ]
