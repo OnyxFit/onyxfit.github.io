@@ -1,6 +1,13 @@
 {
-   "webcredentials": {
-      "apps": ["fit.onyx.onyx",
-               "fit.onyx.onyx.dev"]
+   "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "S67LPN3KMU.fit.onyx.onyx"
+        },
+        {
+          "appID": "S67LPN3KMU.fit.onyx.onyx.dev"
+        }
+      ]
     }
 }
