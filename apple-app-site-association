@@ -4,9 +4,11 @@
       "details": [
         {
           "appID": "S67LPN3KMU.fit.onyx.onyx"
+          "paths": ["/app"]
         },
         {
           "appID": "S67LPN3KMU.fit.onyx.onyx.dev"
+          "paths": ["/app-dev"]
         }
       ]
     }
